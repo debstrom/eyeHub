@@ -31,7 +31,7 @@ const Header = () => {
             <div className="flex items-center justify-center w-10 h-10 rounded-lg bg-primary">
               <span className="text-2xl">👓</span>
             </div>
-            <span className="text-xl font-bold text-foreground">VisionHub</span>
+            <span className="text-xl font-bold text-foreground">MabNest</span>
           </Link>
 
           {/* Search Bar */}
