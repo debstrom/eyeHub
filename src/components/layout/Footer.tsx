@@ -12,7 +12,7 @@ const Footer = () => {
               <div className="flex items-center justify-center w-10 h-10 rounded-lg bg-primary">
                 <span className="text-2xl">👓</span>
               </div>
-              <span className="text-xl font-bold">VisionHub</span>
+              <span className="text-xl font-bold">MabNest</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Premium eyewear solutions with virtual try-on technology and expert care.
@@ -102,7 +102,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2025 VisionHub. All rights reserved.</p>
+          <p>&copy; 2025 MabNest. All rights reserved.</p>
         </div>
       </div>
     </footer>
